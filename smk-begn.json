@@ -2,7 +2,7 @@
   "build": "30-Jan-26 11:46",
   "version": "9.20",
   "plant": "smk",
-  "url": "https://raw.githubusercontent.com/Thanormsin/SmartFarmOTA/main/SMK-DEV-BGN.bin",
+  "url": "https://raw.githubusercontent.com/thanormsinm-byte/SmartFarmOTA/main/SMK-HUB-ESP32C3.binSMK-DEV-BGN.bin",
   "force": false,
   "note": "Bug fix OTA + WiFi stability"
 }
